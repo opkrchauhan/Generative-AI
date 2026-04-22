@@ -1,0 +1,9 @@
+ conda create -p venv python=3.12
+
+ conda --version
+
+ python --version
+
+ pip install numpy
+
+ python -m venv myenv -- one environment
